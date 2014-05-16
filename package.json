@@ -1,0 +1,12 @@
+{
+  "name": "wordpress-seo-local",
+  "description": "Development files for the WordPress SEO Local plugin",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-wp-i18n": "~0.4.1"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
