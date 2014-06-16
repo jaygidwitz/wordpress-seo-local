@@ -13,7 +13,7 @@ function wpseo_show_map(location_data, counter, directionsDisplay, center_lat, c
         streetViewControl: true,
         mapTypeId: google.maps.MapTypeId[ map_style.toUpperCase() ],
         draggable: scrollable && window.innerWidth > mobileBreakpoint,
-        scrollwheel: scrollable && window.innerWidth > mobileBreakpoint
+        scrollwheel: false
     }
 
     // Set center

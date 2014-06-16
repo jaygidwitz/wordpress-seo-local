@@ -1,5 +1,6 @@
 Local SEO (No Map Scroll Zoom)
 =========
+https://developers.google.com/maps/documentation/javascript/reference?csw=1
 Requires at least: 3.4<br/>
 Tested up to: 3.8.1<br/>
 Stable tag: 1.3.0.3
