@@ -1,4 +1,4 @@
-Local SEO
+Local SEO (No Map Scroll Zoom)
 =========
 Requires at least: 3.4<br/>
 Tested up to: 3.8.1<br/>
